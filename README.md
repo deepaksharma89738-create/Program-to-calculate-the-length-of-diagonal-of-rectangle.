@@ -1,0 +1,2 @@
+# Program-to-calculate-the-length-of-diagonal-of-rectangle.
+The length of the diagonal of a rectangle can be calculated using the Pythagoras theorem. According to the formula, Diagonal = √(length² + breadth²). In this program, the user enters the length and breadth of the rectangle. The program squares both values, adds them, and finds the square root to determine the diagonal length of the rectangle.
